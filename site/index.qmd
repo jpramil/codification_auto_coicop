@@ -50,7 +50,7 @@ l'ensemble des observations de l'enquête).
 ## Piste explorée jusqu'ici : une alternative moins coûteuse au LLM-as-a-judge
 
 Le travail présenté sur ce site explore une piste dans ce cadre : proposer
-une alternative moins coûteuse au LLM-as-a-judge, à ne solliciter que
+une alternative moins coûteuse et moins « boîte noire » au LLM-as-a-judge, à ne solliciter que
 lorsque c'est vraiment nécessaire.
 
 1. **Une baseline simple** : le vote majoritaire des 4 classifieurs de
